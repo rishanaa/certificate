@@ -1,0 +1,106 @@
+.allstud{
+      background-color: rgba(128, 128, 128, 0.151);
+      font-size: 12px;
+      height: 1400px;
+
+}
+.allstud .head{
+      padding: 20px;
+}
+.allstud .all1{
+      border-radius: 3px;
+      display: flex;
+      background-color: white;
+      width: 60%;
+      margin-left: 20px;
+      padding: 30px;
+
+}
+.allstud .all1 i{
+      color: #0d6efd;
+}
+
+.allstud .all1 .stud2{
+     
+      margin-left: 150px;
+}
+.allstud .all1 .stud2 img{
+      width: 200px;
+}
+.allstud .all1 .stud2 p{
+     margin-left: 50px;
+     padding: 8px;
+}
+.allstud .all1 .stud2 .bclass{
+      float: right;
+      margin-top: 50px;
+      margin-left: 120px;
+
+}
+.allstud .all1 .stud2 .butt1{
+      border: none;
+      background-color:rgba(0, 0, 0, 0.719);
+      color: white;
+      padding: 4px 18px;
+      border-radius: 3px;
+}
+.allstud .all1 .stud2 .butt2{
+      border: none;
+      background-color:rgba(255, 0, 0, 0.733);
+      color: white;
+      padding: 4px 18px;
+      border-radius: 3px;
+      margin-left: 20px;
+}
+.allstud .all1 .stud1{
+      width: 180px;
+}
+.allstud .all1 .stud1 h3{
+      font-size: 15px;
+}
+.allstud .all2{
+      border-radius: 3px;
+      margin-top: 20px;
+      height: 520px;
+      background-color: white;
+      width: 60%;
+      margin-left: 20px;
+      padding: 30px;
+
+}
+.allstud .all2 i{
+     font-size: 16px;
+      color: rgba(128, 128, 128, 0.589);
+}
+.allstud .all2 .next{
+      display: flex;
+      justify-content: space-between;
+}
+ .bu0{
+      
+      border: none;
+      background-color: rgba(18, 136, 101, 0.795);
+      color: white;
+      border-radius: 5px;
+      padding: 5px 8px;
+      
+}
+ .bu1{
+      border: .5px solid rgba(128, 128, 128, 0.658);
+      padding: 2px 15px;
+      border-radius: 3px;
+
+}
+.allstud .all2 .bu2{
+      border: none;
+      color: #0d6efd;
+      background-color: #0d6dfd3b;
+      border-radius: 3px;
+}
+.bu3{
+      border: none;
+      background-color:rgba(255, 0, 0, 0.733);
+      color: white;
+      border-radius: 3px;
+      margin-left: 8px;
+}

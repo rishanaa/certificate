@@ -1,0 +1,47 @@
+.login{
+      height: 700px;
+      background-color: rgba(163, 143, 143, 0.185);
+      padding-top: 60px;
+}
+.login .form{
+      background-color: white;
+      width: 35%;
+      height: 500px;
+      
+      justify-content: space-between;
+      padding: 50px 50px;
+      margin: 50px 400px;
+}
+.login .form h3{
+      font-size: 20px;
+      font-weight: 700;
+}
+.login .form h5{
+      margin-top: 100px;
+      color: rgb(56, 82, 197);
+      font-size: 13px;
+      margin-bottom: 30px;
+}
+.login .form h6{
+      font-size: 12px;
+}
+.login .form label{
+      font-size: 12px;
+      position: absolute;
+      margin: 14px 6px;
+}
+.login .form input{
+      width: 320px;
+      margin: 10px 0px;
+      border-radius: 3px;
+      border: .3px solid rgba(128, 128, 128, 0.541);
+}
+.login .form button{
+      margin-top: 20px;
+      padding: 5px 146px;
+      border: none;
+      background-color: rgba(56, 82, 197, 0.973);
+      color: white;
+      border-radius: 3px;
+      font-size: 12px;
+}

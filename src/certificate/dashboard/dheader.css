@@ -1,0 +1,33 @@
+.dheader{
+      display: flex;
+     
+}
+
+h5{
+      font-size: 14px;
+}
+.dheader input{
+     
+      background-color: rgba(128, 128, 128, 0.123);
+      border: none;
+      border-radius: 20px;
+      height: 35px;
+      margin-right: 600px;
+      /* margin-top: -5px;
+      margin-left: -80px; */
+      width: 300px;
+}
+.dheader #navbarScroll{
+      margin-left: 50px;
+      
+}
+.dheader h2{
+      font-size: 19px;
+      font-weight: 700;
+      margin-left: 40px;
+}
+.dheader h3{
+      font-size: 19px;
+      margin-left: 100px;
+      
+}

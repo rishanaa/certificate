@@ -1,0 +1,60 @@
+.container5{
+      height: 1139px;
+      padding: 146px 196px;
+      background: #2A7CC7;
+}
+.container5 .p2{
+      font-size: 16px;
+      color: rgb(45, 219, 89);
+      margin-top: 35px;
+   }
+   .container5 .h2{
+      font-weight: 700;
+   font-size: 40px;
+   line-height: 50px;
+   font-weight: 700;
+   color:white  ;
+   width: 45%;
+
+   }
+   .container5 .p4{
+      width: 50%;
+      font-size: 16px;
+      letter-spacing: 0.2px;
+      font-weight: 100;
+      color: white;
+   }
+   img{
+      padding-top: 23px;
+   }
+   .container5 .p9{
+      font-size: 16px;
+      color: rgb(45, 219, 89);
+      text-align: center;
+      
+   }
+   .container6{
+      padding-left: 196px;
+      padding-top: 116px;
+      height: 774px;
+   }
+   .container6 .p2{
+      font-size: 16px;
+      color: rgb(45, 219, 89);
+      
+   }
+   .container6 .h2{
+      font-weight: 700;
+   font-size: 40px;
+   line-height: 50px;
+   font-weight: 700;
+   color:#252B42 ;
+   
+   }
+   .container6 .p4{
+      font-size: 14px;
+      letter-spacing: 0.2px;
+      font-weight: 450;
+      width: 40%;
+      color:#737373;
+   }

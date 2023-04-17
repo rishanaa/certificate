@@ -1,0 +1,81 @@
+.main .header{
+      display: flex;
+      /* justify-content: space-around; */
+      padding: 20px 250px;
+      background-color: #2A7CC7;
+      border-bottom: .5px solid rgba(255, 255, 255, 0.253);
+}
+.main .header p{
+      margin: 0px 15px;
+      color: rgba(255, 255, 255, 0.774);
+      font-size: 13px;
+}
+.main .header h5{
+      margin-right: 250px;
+      color: white;
+}
+.main .header button{
+      margin-left: 100px;
+      color: rgba(45, 219, 88, 0.699);
+      background-color: #2A7CC7;
+      border:2px solid rgba(45, 219, 88, 0.644);
+      border-radius: 5px;
+      font-size: 13px;
+      padding: 5px 15px;
+}
+.main .body{
+      height: 640px;
+      background-color: #2A7CC7;
+      display: flex;
+      padding: 200px 0px;
+}
+.main .body .left{
+      width: 50%;
+      padding-left: 240px;
+}
+.main .body .left h1{
+      color: white;
+      font-size: 35px;
+      width: 70%;
+}
+.main .body .left p{
+      color: rgba(255, 255, 255, 0.521);
+      font-size: 12px;
+      margin-top: 60px;
+      width: 70%;
+}
+.main .body .left button{
+      color: white;
+      background-color: rgb(238, 198, 98);
+      border: none;
+      padding: 4px 33px;
+      border-radius: 3px;
+      font-size: 12px;
+}
+.main .body .right{
+      width: 50%;
+       padding-left: 80px;
+}
+.main .body .right img{
+      width: 370px;
+}
+.main .footer{
+      display: flex;
+      padding-left: 240px;
+      padding-right: 300px;
+      padding-top: 50px;
+      padding-bottom: 50px;
+}
+.main .footer div{
+      width: 50%;
+}
+.main .footer div p{
+      font-size: 12px;
+}
+.main .footer .edi{
+      width: 140%;
+}
+.main .footer .logos img{
+      width: 30px;
+      padding: 2px;
+}

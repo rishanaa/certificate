@@ -1,0 +1,65 @@
+.dpage2{
+      background-color: rgba(128, 128, 128, 0.151);
+      font-size: 12px;
+}
+.dpage2 h5{
+      padding: 20px;
+}
+.dpage2 Table{
+      margin-top: 30px;
+}
+.dpage2 Table button{
+      border: none;
+      
+}
+.dpage2 .card{
+      margin: 10px;
+      border: none;
+}
+.dpage2 .card .show1 label{
+  /* margin-top: 20px; */
+  position: absolute;
+ 
+}
+ .dpage2 .card .show1 input{
+      
+      border: .5px solid rgba(128, 128, 128, 0.562);
+      border-radius: 10px;
+      width: 200px;
+      padding: 5px 10px;
+      
+      
+      
+} 
+.dpage2 .card .show1{
+      margin: 20px;
+}
+.dpage2 .card .card1{
+      display: flex;
+      justify-content: space-between;
+}
+.dpage2 .card .card1 .show{
+      display: flex;
+      margin-top: 40px;
+      
+}
+/* .dpage2 .card .show label{
+      position: absolute;
+} */
+.dpage2 .show input{
+      width: 50px;
+      border-radius: 3px;
+      
+      border: .5px solid rgba(128, 128, 128, 0.562);
+      /* height: 30px; */
+      
+}
+
+
+.dpage2 .show .p1{
+      margin-left: 80px;
+}
+.pagee{
+      float: right;
+      
+}

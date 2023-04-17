@@ -1,0 +1,70 @@
+.dpage3{
+      background-color: rgba(128, 128, 128, 0.151);
+      font-size: 12px;
+      height: 100vh;
+
+}
+.dpage3 h5{
+      padding: 20px;
+}
+.dpage3 .mains{
+      display: flex;
+      background-color: white;
+      width: 80%;
+      padding: 20px;
+      margin-left: 20px;
+      border-radius: 10px;
+      
+}
+.dpage3 .mains input{
+      border-radius: 5px;
+      width: 400px;
+      border: none;
+      background-color: rgba(128, 128, 128, 0.151);
+      padding: 8px;
+     
+}
+.dpage3 .mains label{
+      position: absolute;
+      padding: 8px;
+      color: rgba(0, 0, 0, 0.452);
+}
+.dpage3 .mains .main2{
+      margin-left: 30px;
+}
+.dpage3 .mains h3{
+      font-size: 12px;
+}
+.dpage3 .mains .smain{
+      display: flex;
+}
+.dpage3 .mains .smain button{
+      width: 80px;
+      height: 25px;
+      border: .5px solid rgba(0, 0, 0, 0.596);
+      color: rgba(0, 0, 0, 0.548)
+}
+.dpage3 .mains .smain p{
+      padding-left: 20px;
+      color: rgba(0, 0, 0, 0.562)
+}
+.dpage3 .mains .button{
+      margin-top: 70px;
+      float: right;
+      margin-top: 100px;
+      
+}
+ .dpage3 .mains .button .but1{ 
+      border: none;
+      padding: 7px 25px;
+      border-radius: 5px;
+      color: rgb(36, 63, 36);
+}
+ .dpage3 .mains .button .but2{ 
+      border: none;
+      padding: 7px 25px;
+      margin-left: 10px;
+      border-radius: 5px;
+      background-color: rgb(36, 63, 36);
+      color: white;
+}

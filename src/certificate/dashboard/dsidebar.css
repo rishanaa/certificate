@@ -1,0 +1,32 @@
+.dsidebar{
+      font-size: 12px;
+      line-height: 25px;
+      margin-left: 10px;
+      width: 230px;
+      margin-top: 20px;
+}
+.dsidebar ul{
+      list-style: none;
+      margin-left: -20px;
+      /* color: black; */
+      text-decoration: none;
+      
+}
+.dsidebar ul a{
+      list-style: none;
+      text-decoration: none;
+      color: black;
+}
+.dsidebar ul a:hover{
+      color: rgba(27, 112, 209, 0.842);
+}
+.dsidebar h4{
+      font-size: 12px;
+      
+}
+.dsidebar nav h5{
+      margin-top: 20px;
+}
+.dsidebar i{
+      margin-right: 6px;
+}

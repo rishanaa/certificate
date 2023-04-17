@@ -1,0 +1,94 @@
+.dpage1{
+      /* margin-left: 210px;
+      position: absolute;
+      margin-top: 43px; */
+
+      height: 550px;
+      background-color: rgba(128, 128, 128, 0.151);
+}
+
+.dpage1 h5{
+      padding: 20px;
+}
+.part1  .card{
+      /* margin: 10px; */
+      margin-left: 10px;
+      width: 380px;
+      border: none;
+      
+}
+.part1  .card .top-card{
+      background-color: #dae4ee;
+      padding: 10px;
+      height: 145px;
+      
+}
+.part1  .card .top-card img{
+      width: 150px;
+      margin-left: 50px;
+}
+.part1  .card .top-card h4{
+      font-size: 16px;
+      color: #2A7CC7;
+}
+.part1  .card .top-card p{
+      font-size: 12px;
+      color: #2A7CC7;
+}
+.part1  .card .bottom-card{
+      padding: 10px;
+}
+.part1  .card .bottom-card img{
+    width: 70px;
+    height: 70px;
+    border-radius: 100px;
+    margin-top: -40px;
+    margin-left: 10px;
+    border: 6px solid white;
+    
+}
+.part1  .card .bottom-card  h4{
+      font-size: 14px;
+      margin-top: 30px;
+}
+.part1  .card .bottom-card p{
+      font-size: 12px;
+      width: 150px;
+}
+.part1  .card .bottom-card .section-2{
+       display: flex;
+}
+.part1  .card .bottom-card .section-2 .two{
+      margin-left: 30px;
+}
+.part1  .card .bottom-card .section-2 .one button{
+      background-color: #2A7CC7;
+      border: none;
+      font-size: 11px;
+      width: 100px;
+      color: white;
+      border-radius: 3px;
+      padding: 6px 0px;
+      margin-left: 20px;
+      
+}
+.part2 .section3 .cards img{
+      width: 60px;
+      margin-right: 20px;
+      
+}
+.part2 .section3 .cards .three{
+      display: flex;
+      justify-content: space-between;
+}
+.part2 .section3 .cards{
+      width: 360px;
+      margin-bottom: 20px;
+      
+}
+.part2 .section3 .cards p{
+      padding-left: 20px;
+}
+.part2 .section3 .card5{
+      margin-left: -10px;
+}
